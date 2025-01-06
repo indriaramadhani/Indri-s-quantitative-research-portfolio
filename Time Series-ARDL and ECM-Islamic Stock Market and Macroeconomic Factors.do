@@ -1,4 +1,4 @@
-Project Paper_Fix_Do File
+This code use to identify the impact of macroeconomic variables (oil price, exchange rate, and gold price) on islamic stock index as proxied by JII using ARDL Bond Test and ECM to capture both long and short run relationships. 
 
 ***data set***
 gen month = mofd(Date)
